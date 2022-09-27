@@ -69,10 +69,7 @@ with col2:
 
 # --- SOCIAL LINKS ---
 st.write('\n')
-images=[im1,im2,im3,im4]
 cols = st.columns(len(SOCIAL_MEDIA))
-for image1 in images:
-    st.image(image1)
 for index,(platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
