@@ -423,7 +423,7 @@ st.write("----------------------------------------------------------------------
 #     height=150,)
 
 components.html(
-	"""
+
 	<!DOCTYPE html>
 <html lang="en">
 <head>
