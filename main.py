@@ -187,7 +187,7 @@ with st.sidebar:
 #     <div class="github-card" data-user="ashistiwari2"></div> <script src="http://lab.lepture.com/github-cards/widget.js"></script>
 #     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fashistiwari2%2Fposts%2Fpfbid02neCS9JNYx6FWn8cavBjYfVJ3rZK1budbyzxdNLpvswjs2rZfS1JsgjWVgjd5e1dEl&show_text=true&width=500" width="500" height="277" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 #     <img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D7432047169%26text%3DHi%2520%252CThank%2520You%2520For%2520messaging%2520Me&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"><a href="www.qr-code-generator.com/" border="0" style="cursor:default" rel="nofollow"></a>
-#     ''',height=1600)
+#     ,height=1600)
     
 			
 st.write('\n')
@@ -375,50 +375,6 @@ with col1:
 # </html>
     
     
-
-# """,
-#     height=600,)
-st.write("-------------------------------------------------------------------------------------------")
-# components.html(
-#     """
-     
-#     <script 
-#       type="text/javascript"
-#       src="https://d3mkw6s8thqya7.cloudfront.net/integration-plugin.js"
-#       id="aisensy-wa-widget"
-#       widget-id="gLwq0K"
-#     >
-#     </script>
-	
-#     """,
-#     height=500,)
-# components.html(
-#     """
-#     <!DOCTYPE html>
-#  <html lang="en">
-#  <head>
-#      <meta charset="UTF-8">
-#     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7140902499537328"
-#      crossorigin="anonymous"></script>
-      
-    
-#  </head>
-#  <body>
-#  <p>Google Ads</p>
-# </body>
-# </html>
-    
-    
-
-# """,
-#     height=200,)
-# st.write("-------------------------------------------------------------------------------------------")
-# components.html(
-#     """
-#     <script src="https://widgets.coingecko.com/coingecko-random-coin-widget.js"></script>
-# <coingecko-random-coin-widget  locale="en" width="0"></coingecko-random-coin-widget>
-# """,
-#     height=150,)
 
 
 '''
