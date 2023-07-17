@@ -4,7 +4,7 @@ im = Image.open("favicon.ico")
 PAGE_TITLE = "Copy |Digital CV | Ashis Tiwari"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=im)
 code = '''
-from pathlib import Path
+ from pathlib import Path
 import pandas as pd
 import streamlit as st
 from PIL import Image
@@ -447,7 +447,5 @@ s0.parentNode.insertBefore(s1,s0);
 </body>
 </html>
 """,height=600)
-"""
-)
 '''
 st.code(code, language='python')
